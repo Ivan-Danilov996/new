@@ -1,0 +1,23 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Danilov996/new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Danilov996/new/issues"
+  },
+  "homepage": "https://github.com/Ivan-Danilov996/new#readme",
+  "dependencies": {
+    "@ivan-danilov996/ajs": "^1.0.0"
+  }
+}
